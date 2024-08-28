@@ -1,0 +1,21 @@
+*{
+    width: 100%;
+    box-sizing: inherit;
+    box-shadow: 0cap;
+    
+    
+}
+section{
+    width: 31%;
+    display: inline-block;
+    vertical-align: top;
+margin-left: 3px;
+
+}
+header{font size: 20px;
+    background-color: rgb(36, 169, 111);
+
+margin 10px 0px;
+}
+body{margin 0px
+}

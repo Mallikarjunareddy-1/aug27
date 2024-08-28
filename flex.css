@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    max-width: 1200px;
+}
+
+.card {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.logo {
+    width: 50px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    margin: 10px 0;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.category {
+    color: #777;
+    font-size: 0.9em;
+    margin-bottom: 10px;
+}
+
+.stars {
+    color: #4caf50;
+    font-size: 1.1em;
+    margin-bottom: 10px;
+}
+
+.description {
+    font-size: 0.9em;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+.installed {
+    font-size: 0.8em;
+    color: #888;
+    margin-bottom: 15px;
+}
+
+.view-link {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+}

@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+  box-sizing: border-box;
+  padding: 10px;
+  text-decoration: none;
+ 
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.dropdown{
+    
+    display:flex;
+    justify-content:space-evenly;
+   
+    
+    
+}

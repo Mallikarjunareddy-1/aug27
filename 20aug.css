@@ -1,0 +1,62 @@
+.container{background-image:url(https://assets.nicepagecdn.com/d2cc3eaa/118800/images/7897-min.jpg);
+display: flex;
+flex-flow:row nowrap;
+gap: 10px;
+margin:10px;
+padding: 10px;
+justify-content:space-around;
+box-sizing: border-box;
+object-fit: cover;
+}
+body{margin:0px;
+padding:0px;}
+.item{
+    
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    flex: 1 1 10%;
+margin:150px 150px;
+margin-bottom: 150px;
+    
+}
+.item1{
+    display: flex;
+    flex-direction: column;
+    background-color: aliceblue;
+    align-self: end;
+  align-content:center;
+    
+
+    
+    
+   
+}
+.item2{
+    display: flex;
+    flex-direction: column;
+    background-color: aliceblue;
+  align-self: end;
+  align-content:center;
+    
+}
+.item3{
+    display: flex;
+    flex-direction: column;
+    background-color: aliceblue;
+    align-self: end;
+    align-content:center;
+      
+    
+    
+}
+.item4{
+    display: flex;
+    flex-direction:  column;
+    background-color: aliceblue;
+    align-self: end;
+  align-content:center;
+    
+    
+    
+}
